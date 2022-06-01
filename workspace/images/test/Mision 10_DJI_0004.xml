@@ -1,0 +1,50 @@
+<annotation>
+	<folder>all</folder>
+	<filename>Mision 10_DJI_0004.jpg</filename>
+	<path>/home/amkdev/projects/RealTimeObjectDetection/workspace/images/all/Mision 10_DJI_0004.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fault</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>97</xmin>
+			<ymin>251</ymin>
+			<xmax>106</xmax>
+			<ymax>261</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Fault</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>183</xmin>
+			<ymin>52</ymin>
+			<xmax>194</xmax>
+			<ymax>60</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Fault</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>335</xmin>
+			<ymin>24</ymin>
+			<xmax>347</xmax>
+			<ymax>33</ymax>
+		</bndbox>
+	</object>
+</annotation>
